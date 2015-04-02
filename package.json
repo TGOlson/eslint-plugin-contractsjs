@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-contractsjs",
+  "version": "0.0.0",
+  "description": "ESLint plugin for contracts using contractsjs and the sweetjs macro system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": "^0.18.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "contractjs",
+    "sweetjs"
+  ],
+  "author": "Tyler Olson",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^0.18.0",
+    "eslint-tester": "^0.6.0",
+    "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "ramda": "^0.13.0"
+  }
+}
